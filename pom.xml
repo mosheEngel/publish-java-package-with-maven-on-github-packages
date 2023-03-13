@@ -22,7 +22,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/mosheEngel/starlink-mobile-sdk-android-test</url>
+      <url>https://maven.pkg.github.com/mosheEngel/publish-java-package-with-maven</url>
     </repository>
   </distributionManagement>
 
